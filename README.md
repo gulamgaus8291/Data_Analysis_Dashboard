@@ -1,31 +1,89 @@
-# Data_Analysis_Dashboard
-This repository is a curated collection of my data analytics projects, built using Microsoft Excel, Power BI, and Tableau. As an aspiring data analyst, I use this space to demonstrate my skills in data cleaning, transformation, analysis, and visualization.
+# 🏨 Hotel Booking Analysis – Data Analyst Portfolio Project
 
-🧠 Key Objectives:
-Solve real-world business problems using data
+Welcome to my data analytics portfolio! This project focuses on analyzing hotel booking data using Excel, Power BI, and Tableau. It demonstrates my ability to turn raw data into actionable insights to support business decisions in the hospitality industry.
 
-Build insightful, interactive dashboards
+---
 
-Develop data storytelling techniques
+## 📁 Project Overview
 
-Apply statistical and business intelligence concepts
+**Objective**:  
+To analyze booking patterns, customer behavior, and revenue metrics for a hotel group to identify trends, reduce cancellations, and improve booking strategies.
 
-🛠 Tools & Skills Highlighted:
-Excel: Pivot Tables, Power Query, VLOOKUP/XLOOKUP, Conditional Formatting, Dashboards
+**Dataset**:  
+`Hotel_booking_Analysis.xlsx` – includes information about hotel types, reservation status, lead time, cancellation rates, customer demographics, and more.
 
-Power BI: DAX formulas, Relationships, Power Query Editor, KPI Visualizations
+---
 
-Tableau: Filters, Parameters, Calculated Fields, Storyboards, Trend Analysis
+## 🧰 Tools Used
 
-📊 Project Types:
-Sales and Marketing Analytics
+- **Excel**:  
+  - Data cleaning & transformation  
+  - Pivot Tables, Conditional Formatting  
+  - Dashboard creation
 
-HR and Employee Data Dashboards
+- **Power BI** *(Planned/Included)*:  
+  - Interactive dashboards  
+  - DAX Measures for KPIs (e.g., ADR, cancellation rate)  
+  - Visual storytelling with slicers and charts
 
-Financial Performance Reports
+- **Tableau** *(Planned/Included)*:  
+  - Customer segmentation visualization  
+  - Trend & seasonality analysis  
+  - Heatmaps and time-series visualizations
 
-E-commerce and Customer Insights
+---
 
-Time Series Forecasting & Trend Analysis
+## 🔍 Key Insights Extracted
 
-📌 This repo reflects my journey in data analytics and is continuously evolving as I learn new concepts and work on more complex datasets.
+- Higher cancellation rates for city hotels than resort hotels
+- Peak bookings occur between May and August
+- Families tend to book longer stays but cancel less often
+- Online travel agents are the dominant booking channels
+- Lead time significantly impacts the likelihood of cancellations
+
+---
+
+## 📈 Metrics & KPIs
+
+- **Average Daily Rate (ADR)**
+- **Cancellation Rate**
+- **Occupancy Rate**
+- **Lead Time Distribution**
+- **Customer Type Breakdown**
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Data Cleaning and Wrangling  
+- Dashboard Design and Storytelling  
+- DAX and Data Modeling (Power BI)  
+- Advanced Charting and Pivoting (Excel)  
+- Domain knowledge in hospitality analytics
+
+---
+
+## 🚀 Future Improvements
+
+- Build predictive models for cancellations  
+- Time-series forecasting for room demand  
+- Web scraping travel trends for integration  
+- Expand to multi-hotel and region-level analytics
+
+---
+
+## 📌 How to Use
+
+1. Download the `Hotel_booking_Analysis.xlsx` file
+2. Explore the raw data and try replicating the analysis in Excel
+3. View or clone the Power BI and Tableau dashboards (links will be added soon)
+4. Use filters/slicers to explore interactive visualizations
+
+---
+
+## 📬 Let's Connect
+
+I’m always open to collaboration or feedback. Feel free to reach out or connect:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/gulam-gaus-darvesh-a0818536b/)  
+---
